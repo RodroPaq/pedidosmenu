@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/RodroPaq/menupedidosprecache-manifest.55bacdcb626a9ed0ce8790761b9a187b.js"
+  "/RodroPaq/menupedidosprecache-manifest.034ff25c08c3bea597a99510a5a5ec37.js"
 );
 
 self.addEventListener('message', (event) => {
